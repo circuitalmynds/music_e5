@@ -1,5 +1,335 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "XwdYNUTE0xA",
+            "name": "Backstage Sally (Remastered 2003\u29f8Rudy Van Gelder Edition) [XwdYNUTE0xA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Backstage Sally (Remastered 2003\u29f8Rudy Van Gelder Edition) [XwdYNUTE0xA].mp4",
+            "size": 12.184244,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Backstage Sally (Remastered 2003\u29f8Rudy Van Gelder Edition) [XwdYNUTE0xA].mp4"
+        },
+        {
+            "id": "tZKnPJvB3Q0",
+            "name": "Prelude [tZKnPJvB3Q0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Prelude [tZKnPJvB3Q0].mp4",
+            "size": 7.208068,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Prelude [tZKnPJvB3Q0].mp4"
+        },
+        {
+            "id": "uR3KNJqKruM",
+            "name": "Hace Como Un A\u00f1o [uR3KNJqKruM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Hace Como Un A\u00f1o [uR3KNJqKruM].mp4",
+            "size": 6.978159,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Hace Como Un A\u00f1o [uR3KNJqKruM].mp4"
+        },
+        {
+            "id": "syxLa667Cg8",
+            "name": "Kalakuta Show [syxLa667Cg8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Kalakuta Show [syxLa667Cg8].mp4",
+            "size": 49.571321,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Kalakuta Show [syxLa667Cg8].mp4"
+        },
+        {
+            "id": "VdiV2SE57I8",
+            "name": "In Walked Bud [VdiV2SE57I8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/In Walked Bud [VdiV2SE57I8].mp4",
+            "size": 9.834303,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/In Walked Bud [VdiV2SE57I8].mp4"
+        },
+        {
+            "id": "QTJLu4eKL_8",
+            "name": "Granadas [QTJLu4eKL_8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Granadas [QTJLu4eKL_8].mp4",
+            "size": 14.208267,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Granadas [QTJLu4eKL_8].mp4"
+        },
+        {
+            "id": "rxyN1GHMatM",
+            "name": "Tchaikovsky - Symphony No.2 \uff02Little Russian\uff02 (Score) [rxyN1GHMatM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Tchaikovsky - Symphony No.2 \uff02Little Russian\uff02 (Score) [rxyN1GHMatM].mp4",
+            "size": 58.470867999999996,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Tchaikovsky - Symphony No.2 \uff02Little Russian\uff02 (Score) [rxyN1GHMatM].mp4"
+        },
+        {
+            "id": "4MEVgu5mi34",
+            "name": "Moon River (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [4MEVgu5mi34].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Moon River (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [4MEVgu5mi34].mp4",
+            "size": 8.37199,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Moon River (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [4MEVgu5mi34].mp4"
+        },
+        {
+            "id": "K3uiAWb_ZLc",
+            "name": "Gil Scott-Heron & Brian Jackson ~ The Bottle 1974 Jazz Funk Purrfection Version [K3uiAWb_ZLc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Gil Scott-Heron & Brian Jackson ~ The Bottle 1974 Jazz Funk Purrfection Version [K3uiAWb_ZLc].mp4",
+            "size": 38.608517,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Gil Scott-Heron & Brian Jackson ~ The Bottle 1974 Jazz Funk Purrfection Version [K3uiAWb_ZLc].mp4"
+        },
+        {
+            "id": "uMxkRT7bJ0w",
+            "name": "Larry Graham - Killer Slap Bass [uMxkRT7bJ0w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Larry Graham - Killer Slap Bass [uMxkRT7bJ0w].mp4",
+            "size": 70.387315,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Larry Graham - Killer Slap Bass [uMxkRT7bJ0w].mp4"
+        },
+        {
+            "id": "LGHC5U6vTMk",
+            "name": "Nov\u00e1k - Slovak Suite Op. 32 N. 1 - In the church \uff5c Classical is Magical [LGHC5U6vTMk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Nov\u00e1k - Slovak Suite Op. 32 N. 1 - In the church \uff5c Classical is Magical [LGHC5U6vTMk].mp4",
+            "size": 46.195113,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Nov\u00e1k - Slovak Suite Op. 32 N. 1 - In the church \uff5c Classical is Magical [LGHC5U6vTMk].mp4"
+        },
+        {
+            "id": "4-vl41AaDeM",
+            "name": "Valse [4-vl41AaDeM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Valse [4-vl41AaDeM].mp4",
+            "size": 14.053764,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Valse [4-vl41AaDeM].mp4"
+        },
+        {
+            "id": "Nlnoa67MUJU",
+            "name": "Fancy - Slice Me Nice [Nlnoa67MUJU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Fancy - Slice Me Nice [Nlnoa67MUJU].mp4",
+            "size": 21.936052,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Fancy - Slice Me Nice [Nlnoa67MUJU].mp4"
+        },
+        {
+            "id": "DR9fxubrC98",
+            "name": "Adelaide, S. 466\u29f8R. 121 [DR9fxubrC98].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Adelaide, S. 466\u29f8R. 121 [DR9fxubrC98].mp4",
+            "size": 22.663411999999997,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Adelaide, S. 466\u29f8R. 121 [DR9fxubrC98].mp4"
+        },
+        {
+            "id": "PVgeZ_7ppUQ",
+            "name": "Rosamunde Overture [PVgeZ_7ppUQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Rosamunde Overture [PVgeZ_7ppUQ].mp4",
+            "size": 29.112406999999997,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Rosamunde Overture [PVgeZ_7ppUQ].mp4"
+        },
+        {
+            "id": "dCQgqiNwtnk",
+            "name": "Megaherz [dCQgqiNwtnk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Megaherz [dCQgqiNwtnk].mp4",
+            "size": 25.443188,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Megaherz [dCQgqiNwtnk].mp4"
+        },
+        {
+            "id": "bhQe_vNAxd0",
+            "name": "Reincarnation Blues (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [bhQe_vNAxd0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Reincarnation Blues (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [bhQe_vNAxd0].mp4",
+            "size": 8.046301999999999,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Reincarnation Blues (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [bhQe_vNAxd0].mp4"
+        },
+        {
+            "id": "nhHF5Xd5Irs",
+            "name": "Adi\u00f3s Felicidad [nhHF5Xd5Irs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Adi\u00f3s Felicidad [nhHF5Xd5Irs].mp4",
+            "size": 3.626174,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Adi\u00f3s Felicidad [nhHF5Xd5Irs].mp4"
+        },
+        {
+            "id": "EXQwAKWuRE0",
+            "name": "Liszt\uff1a Via Crucis - Station I\uff1a Jesus wird zum Tode verdammt [EXQwAKWuRE0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Liszt\uff1a Via Crucis - Station I\uff1a Jesus wird zum Tode verdammt [EXQwAKWuRE0].mp4",
+            "size": 3.9796359999999997,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Liszt\uff1a Via Crucis - Station I\uff1a Jesus wird zum Tode verdammt [EXQwAKWuRE0].mp4"
+        },
+        {
+            "id": "puNQBuI5YBQ",
+            "name": "T\u00fa me has de querer [puNQBuI5YBQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/T\u00fa me has de querer [puNQBuI5YBQ].mp4",
+            "size": 4.219188,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/T\u00fa me has de querer [puNQBuI5YBQ].mp4"
+        },
+        {
+            "id": " - copy (1)",
+            "name": "Handel\uff1a Messiah, HWV 56 \u29f8 Pt. 2 - \uff02Hallelujah\uff02 [gFRI-Ar5hTs] - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Handel\uff1a Messiah, HWV 56 \u29f8 Pt. 2 - \uff02Hallelujah\uff02 [gFRI-Ar5hTs] - copy (1).mp4",
+            "size": 7.3885179999999995,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Handel\uff1a Messiah, HWV 56 \u29f8 Pt. 2 - \uff02Hallelujah\uff02 [gFRI-Ar5hTs] - copy (1).mp4"
+        },
+        {
+            "id": "0vkjlfZHY5M",
+            "name": "Sakeena's Vision (Remastered 2005) [0vkjlfZHY5M].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Sakeena's Vision (Remastered 2005) [0vkjlfZHY5M].mp4",
+            "size": 9.518056,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Sakeena's Vision (Remastered 2005) [0vkjlfZHY5M].mp4"
+        },
+        {
+            "id": "Lj8Q9F2Z1vo",
+            "name": "Elegia [Lj8Q9F2Z1vo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Elegia [Lj8Q9F2Z1vo].mp4",
+            "size": 12.550075999999999,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Elegia [Lj8Q9F2Z1vo].mp4"
+        },
+        {
+            "id": "XJocj5T9qIY",
+            "name": "All The Things You Are [XJocj5T9qIY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/All The Things You Are [XJocj5T9qIY].mp4",
+            "size": 11.667959999999999,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/All The Things You Are [XJocj5T9qIY].mp4"
+        },
+        {
+            "id": "JE-RkzuAglU",
+            "name": "Who Cares\uff1f [JE-RkzuAglU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Who Cares\uff1f [JE-RkzuAglU].mp4",
+            "size": 8.182253,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Who Cares\uff1f [JE-RkzuAglU].mp4"
+        },
+        {
+            "id": "gXHxe5ezhcQ",
+            "name": "Backstage Sally (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [gXHxe5ezhcQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Backstage Sally (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [gXHxe5ezhcQ].mp4",
+            "size": 9.672697,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Backstage Sally (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [gXHxe5ezhcQ].mp4"
+        },
+        {
+            "id": "zpqIxQnk-nI",
+            "name": "Quien Tiene La Voz\uff1f [zpqIxQnk-nI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Quien Tiene La Voz\uff1f [zpqIxQnk-nI].mp4",
+            "size": 8.738581,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Quien Tiene La Voz\uff1f [zpqIxQnk-nI].mp4"
+        },
+        {
+            "id": "KlUDJjtIumg",
+            "name": "Endless Memory [KlUDJjtIumg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Endless Memory [KlUDJjtIumg].mp4",
+            "size": 5.423139,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Endless Memory [KlUDJjtIumg].mp4"
+        },
+        {
+            "id": "lHoViDvaT4I",
+            "name": "Blue Interlude [lHoViDvaT4I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Blue Interlude [lHoViDvaT4I].mp4",
+            "size": 14.778996999999999,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Blue Interlude [lHoViDvaT4I].mp4"
+        },
+        {
+            "id": "hQ4n4zHdrwA",
+            "name": "Stratovarius [hQ4n4zHdrwA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Stratovarius [hQ4n4zHdrwA].mp4",
+            "size": 32.326867,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Stratovarius [hQ4n4zHdrwA].mp4"
+        },
+        {
+            "id": "GHNSk77TUHU",
+            "name": "Faur\u00e9\uff1a Fantaisie, Op. 111 [GHNSk77TUHU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Faur\u00e9\uff1a Fantaisie, Op. 111 [GHNSk77TUHU].mp4",
+            "size": 33.386566,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Faur\u00e9\uff1a Fantaisie, Op. 111 [GHNSk77TUHU].mp4"
+        },
+        {
+            "id": "RzWJ2PvJOdM",
+            "name": "Time Remembered [RzWJ2PvJOdM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Time Remembered [RzWJ2PvJOdM].mp4",
+            "size": 10.056685,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Time Remembered [RzWJ2PvJOdM].mp4"
+        },
+        {
+            "id": "4hQIzhPZJNM",
+            "name": "Bu's Delight (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [4hQIzhPZJNM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Bu's Delight (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [4hQIzhPZJNM].mp4",
+            "size": 11.105478999999999,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Bu's Delight (Alternate Take \u29f8 Remastered 2003\u29f8Rudy Van Gelder Edition) [4hQIzhPZJNM].mp4"
+        },
+        {
+            "id": "RthuLePDo3A",
+            "name": "Paul Hindemith - Symphonic Metamorphosis (1943) [RthuLePDo3A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Paul Hindemith - Symphonic Metamorphosis (1943) [RthuLePDo3A].mp4",
+            "size": 35.600738,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Paul Hindemith - Symphonic Metamorphosis (1943) [RthuLePDo3A].mp4"
+        },
+        {
+            "id": "vqIMR1GN1OI",
+            "name": "Excuse-O [vqIMR1GN1OI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Excuse-O [vqIMR1GN1OI].mp4",
+            "size": 24.976824999999998,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Excuse-O [vqIMR1GN1OI].mp4"
+        },
+        {
+            "id": "3TWdx7yRXV4",
+            "name": "Dat Dere (Remastered 2005) [3TWdx7yRXV4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Dat Dere (Remastered 2005) [3TWdx7yRXV4].mp4",
+            "size": 17.940013,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Dat Dere (Remastered 2005) [3TWdx7yRXV4].mp4"
+        },
+        {
+            "id": "byZHwN1pbqc",
+            "name": "It's Only A Paper Moon (Alternate Take) [byZHwN1pbqc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/It's Only A Paper Moon (Alternate Take) [byZHwN1pbqc].mp4",
+            "size": 12.887903999999999,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/It's Only A Paper Moon (Alternate Take) [byZHwN1pbqc].mp4"
+        },
+        {
+            "id": "VfyAODpm1vY",
+            "name": "Duck, You Sucker! \u29f8 Giu' La Testa \uff5c Soundtrack Suite (Ennio Morricone) [VfyAODpm1vY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Duck, You Sucker! \u29f8 Giu' La Testa \uff5c Soundtrack Suite (Ennio Morricone) [VfyAODpm1vY].mp4",
+            "size": 59.636511,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Duck, You Sucker! \u29f8 Giu' La Testa \uff5c Soundtrack Suite (Ennio Morricone) [VfyAODpm1vY].mp4"
+        },
+        {
+            "id": "mvHAh7M8RbQ",
+            "name": "Ruckzuck [mvHAh7M8RbQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Ruckzuck [mvHAh7M8RbQ].mp4",
+            "size": 19.821120999999998,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Ruckzuck [mvHAh7M8RbQ].mp4"
+        },
+        {
+            "id": "twkbxd4fWPk",
+            "name": "My Bells [twkbxd4fWPk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/My Bells [twkbxd4fWPk].mp4",
+            "size": 9.078306999999999,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/My Bells [twkbxd4fWPk].mp4"
+        },
+        {
+            "id": "Q26k14yBAnM",
+            "name": "Bitches Brew [Q26k14yBAnM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Bitches Brew [Q26k14yBAnM].mp4",
+            "size": 39.299431999999996,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Bitches Brew [Q26k14yBAnM].mp4"
+        },
+        {
+            "id": "nImp1wBSof4",
+            "name": "Odessa Bulgar [nImp1wBSof4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Odessa Bulgar [nImp1wBSof4].mp4",
+            "size": 10.650065,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Odessa Bulgar [nImp1wBSof4].mp4"
+        },
+        {
+            "id": "iu6ih4UEOBo",
+            "name": "Reincarnation Blues (Remastered 2003\u29f8Rudy Van Gelder Edition) [iu6ih4UEOBo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Reincarnation Blues (Remastered 2003\u29f8Rudy Van Gelder Edition) [iu6ih4UEOBo].mp4",
+            "size": 10.494857,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Reincarnation Blues (Remastered 2003\u29f8Rudy Van Gelder Edition) [iu6ih4UEOBo].mp4"
+        },
+        {
+            "id": " - copy (1)",
+            "name": "Ravel\uff1a Sur l'herbe [5ZaLhxgHrvM] - copy (1).mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Ravel\uff1a Sur l'herbe [5ZaLhxgHrvM] - copy (1).mp4",
+            "size": 4.343692,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Ravel\uff1a Sur l'herbe [5ZaLhxgHrvM] - copy (1).mp4"
+        },
+        {
+            "id": "CHu9cX8dwLQ",
+            "name": "Vom Himmel Hoch [CHu9cX8dwLQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Vom Himmel Hoch [CHu9cX8dwLQ].mp4",
+            "size": 26.631553,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Vom Himmel Hoch [CHu9cX8dwLQ].mp4"
+        },
+        {
+            "id": "slgezcessuk",
+            "name": "La vedova (Il ranch) , pt. 1 [slgezcessuk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/La vedova (Il ranch) , pt. 1 [slgezcessuk].mp4",
+            "size": 7.104781999999999,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/La vedova (Il ranch) , pt. 1 [slgezcessuk].mp4"
+        },
+        {
+            "id": "0o8FgvZZf5M",
+            "name": "Pavane [0o8FgvZZf5M].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/e5/videos/Pavane [0o8FgvZZf5M].mp4",
+            "size": 9.651138999999999,
+            "url": "https://github.com/circuitalmynds/music_e5/raw/main/videos/Pavane [0o8FgvZZf5M].mp4"
+        }
+    ],
+    "total_size": 918.011101
 }
